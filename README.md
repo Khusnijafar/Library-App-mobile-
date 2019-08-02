@@ -5,10 +5,6 @@
 
 Library App is an application that provides book loaning  
 
-## Features
-
-- Notification after order
-
 ## Requirements
 
 - `npm`
