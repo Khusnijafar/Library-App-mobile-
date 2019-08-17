@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1 align="center">Library App</h1>
 
 ## Introduction
