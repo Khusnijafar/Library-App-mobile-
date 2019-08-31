@@ -1,10 +1,28 @@
 
 <h1 align="center">Library App</h1>
 
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Usage](#usage)
+- [Screenshoot](#screenshoot)
+- [Related Project](#related-project)
+- [Maker](#maker)
+
 ## Introduction
 
-
 Library App is an application that provides book loaning  
+
+
+## Features
+
+- Register
+- Login
+- Notification when seller is in around
+- Transaction
 
 ## Requirements
 
@@ -20,7 +38,7 @@ Library App is an application that provides book loaning
 - Connect your phone to the pc or laptop and make sure your phone is connected with debugging mode
 - Finnaly, type `react-native run-android` and wait for the process to complete
 
-## Demo
+## Scrennshoot
 
 ### Login
   ![home](/public/images/login.jpg)
