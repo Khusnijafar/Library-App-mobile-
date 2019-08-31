@@ -41,13 +41,16 @@ Library App is an application that provides book loaning
 ## Scrennshoot
 
 ### Login
-  ![home](/public/images/login.jpg)
+
+  <img src="public/images/login.jpg" width="400px;" alt="X"/>
   
 ### Home
-  ![home](/public/images/homePage.jpg)
+  
+   <img src="public/images/homePage.jpg" width="400px;" alt="X"/>
 
 ### Page Detail
-  ![home](/public/images/detailbook.jpg)
+
+   <img src="public/images/detailbook.jpg" width="400px;" alt="X"/>
   
 ## Related Project
  
